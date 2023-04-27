@@ -1,3 +1,20 @@
 # Python Stuff
 Personal library for archiving python code
-![engineer](https://imgur.com/WhU0bH7)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![engineer](https://github.com/YolianBoister/Python-stuff/blob/main/ReadImages/Image5.jpg)
