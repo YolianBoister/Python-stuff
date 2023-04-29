@@ -3,7 +3,7 @@ import tkinter
 import time
 
 
-features = "Current features include: Combining two numbers."
+features = "Current features include: Combining two numbers or subtracting two numbers."
 
 def intro():
     print(features, "Have fun!")
